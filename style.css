@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap");
+
 :root {
   --primary-color: dodgerblue;
   --font-color: white;
@@ -16,6 +18,15 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  font-family: Bebas Neue, sans-serif;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 40px;
+  letter-spacing: 5px;
 }
 
 .fas {
